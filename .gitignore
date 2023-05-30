@@ -1,0 +1,16 @@
+# VS Code Settings
+.vscode/
+
+# clangd cache
+.cache
+
+# ESP-IDF default build directory name
+build
+
+# lock files for components
+dependencies.lock
+
+# managed_components for examples
+managed_components
+
+sdkconfig
